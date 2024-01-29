@@ -2,6 +2,7 @@
 #### Hello, I'm Noura OUSFIA, a skilled and passionate Data Analyst based in France. My expertise lies in data storytelling, analysis, and visualization using tools like PowerBI. Proficient in Python and SQL, I am dedicated to integrating machine learning into web applications, particularly with Django frameworks. With a commitment to open-source principles, I'm excited to contribute to the collaborative growth of the data analytics community. Let's embark on a journey of transforming raw data into insightful narratives and building data-driven solutions! 🚀
 
 <h2  align="center"> Skills </h2>
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)

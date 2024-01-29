@@ -1,5 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 #### Hello, I'm Noura OUSFIA, a skilled and passionate Data Analyst based in France. My expertise lies in data storytelling, analysis, and visualization using tools like PowerBI. Proficient in Python and SQL, I am dedicated to integrating machine learning into web applications, particularly with Django frameworks. With a commitment to open-source principles, I'm excited to contribute to the collaborative growth of the data analytics community. Let's embark on a journey of transforming raw data into insightful narratives and building data-driven solutions! 🚀
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
++ a lot more :D
+
+## Contact
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@martonlederer](./) on Discord
+- 
 <!--
 **Noura-ou/Noura-ou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

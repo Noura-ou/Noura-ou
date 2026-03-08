@@ -221,14 +221,6 @@ Hi! I'm **Noura OUSFIA**, a passionate **Data Analyst** and **Python Developer**
   <h3>💡 Let's Build Something Amazing Together!</h3>
 </div>
 
-### 🤗 Open to Collaborate On
-- **📊 Data Strategy Projects**: Business intelligence implementations
-- **🤖 AI Solutions**: Machine learning product development
-- **📈 Analytics Platforms**: Dashboard and reporting systems
-- **🔬 Research Initiatives**: Data science research and innovation
-- **🎓 Mentorship**: Teaching and knowledge sharing
-
-
 ---
 
 ## 📫 Let's Connect!

@@ -71,7 +71,7 @@ Hi! I'm **Noura OUSFIA**, a passionate **Data Analyst** and **Python Developer**
 ## 🎓 OpenClassrooms Data Projects
 
 <div align="center">
-  <h3>📚 Complete Project Portfolio (Projet 2-9)</h3>
+  <h3>📚 Complete Project Portfolio (Projet 2-11)</h3>
   <p><em>8 comprehensive projects demonstrating end-to-end data science skills</em></p>
 </div>
 

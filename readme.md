@@ -141,6 +141,12 @@ Hi! I'm **Noura OUSFIA**, a passionate **Data Analyst** and **Python Developer**
       <p><strong>Objectif:</strong> Analyser tendances et identifier segments de clientèle pertinents</p>
       <p><em>Analyse du marché des jeux vidéo pour UOI Games - Identification d'opportunités commerciales et recommandations stratégiques</em></p>
     </td>
+    <td width="50%">
+      <h3>📌 <a href="https://github.com/Noura-ou/Projet-11-Creez-votre-portfolio-de-professionnel-de-la-data">Projet 11 - Créez votre portfolio de professionnel de la Data</a></h3>
+      <p><strong>Compétences:</strong> GitHub, Markdown, Portfolio, Documentation, GitHub Pages</p>
+      <p><strong>Objectif:</strong> Concevoir et publier un portfolio professionnel présentant mes projets Data</p>
+      <p><em>Création d'un README structuré et attractif pour valoriser mes réalisations, compétences et expériences sur GitHub.</em></p>
+    </td>
   </tr>
 </table>
 
@@ -213,13 +219,6 @@ Hi! I'm **Noura OUSFIA**, a passionate **Data Analyst** and **Python Developer**
 - **Project Types**: End-to-end ML pipelines, BI transformations, Data platforms
 - **Team Roles**: Data Scientist, ML Engineer, BI Developer, Technical Lead
 
----
-
-## 🤝 Collaboration & Networking
-
-<div align="center">
-  <h3>💡 Let's Build Something Amazing Together!</h3>
-</div>
 
 ---
 
